@@ -232,11 +232,11 @@ Classification Model
 
 #### Increase FREQUENCY of purchases: sell them these
 
-![CHEESE!](./images/IncreaseFreq.png)
+![CHEESE!](./images/IncreaseSize.png)
 
 #### Increase SIZE of purchases: sell them these
 
-![CHEESE!](./images/IncreaseSize.png)
+![CHEESE!](./images/IncreaseFreq.png)
 
 #### Amalgamated Insights
 - Now we know how much we can spend to target these customers in the next 3 months
