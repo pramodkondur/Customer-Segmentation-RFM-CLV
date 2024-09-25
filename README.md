@@ -1,7 +1,7 @@
 # **Online Retail Data Clustering - RFM (Recency, Frequency, Monetary) - CLV (Customer Lifetime Value)**
 
-![image](images/customerseg.png)
-Credits: [Ambilo](https://ambilio.com/customer-segmentation-its-methods-and-a-case-study/)
+![image](images/seg.png)
+Credits: [Symson](https://www.symson.com/blog/customer-segments-for-profitable-pricing-a-complete-guide)
 
 
 <a href="https://www.python.org/">
@@ -225,7 +225,7 @@ If a customer has bought multiple times (frequency) and the time between the fir
 
 #### GAMMA-GAMMA Model
 - The Gamma-Gamma model is used to predict the average transaction value for each customer based on their frequency and monetary_value.
-Profit Calculation- Wee add in profit margin (for example 0.15 or 15%)
+Profit Calculation- We add in profit margin (for example 0.15 or 15%)
 
 Summary of Probabilistic model
 
