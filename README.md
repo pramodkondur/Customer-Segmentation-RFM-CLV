@@ -1,5 +1,43 @@
 # **Online Retail Data Clustering - RFM (Recency, Frequency, Monetary) - CLV (Customer Lifetime Value)**
 
+![image](images/customerseg.png)
+Credits: [Ambilo](https://ambilio.com/customer-segmentation-its-methods-and-a-case-study/)
+
+
+<a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3B7EAB?logo=python&logoColor=white">
+</a>
+<a href="https://pandas.pydata.org/">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+</a>
+<a href="https://numpy.org/">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+</a>
+<a href="https://matplotlib.org/">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3C3F4D?logo=matplotlib&logoColor=white">
+</a>
+<a href="https://seaborn.pydata.org/">
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-FF6F20?logo=seaborn&logoColor=white">
+</a>
+<a href="#">
+    <img alt="Math" src="https://img.shields.io/badge/Math-FF8C00.svg">
+</a>
+<a href="https://scikit-learn.org/">
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+</a>
+<a href="https://www.scipy.org/">
+    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-3b211f.svg?logo=scipy&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/K-means_clustering">
+    <img alt="K-means" src="https://img.shields.io/badge/K--means-ffcc00.svg?logo=apache&logoColor=black">
+</a>
+<a href="https://en.wikipedia.org/wiki/Customer_lifetime_value">
+    <img alt="Customer Lifetime Value" src="https://img.shields.io/badge/Customer%20Lifetime%20Value-007acc.svg?logo=chart.js&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/RFM">
+    <img alt="RFM" src="https://img.shields.io/badge/RFM-28a745.svg?logo=chart.js&logoColor=white">
+</a>
+
 ## Purpose of the Project
 The primary goal of this project is to analyze online retail transaction data to identify distinct customer segments using RFM analysis. By understanding customer behaviors in terms of recency, frequency, and monetary value, we then can calculate Customer Lifetime Value (CLV) and develop targeted marketing strategies to enhance customer retention and profitability.
 
