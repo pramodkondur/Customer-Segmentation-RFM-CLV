@@ -335,7 +335,7 @@ Further, we calculate the gain from the predictions of CLV and probability of ch
 Results for Cluster 0 is as follows:
 ![img](images/cluster0hypothetical.png)
 
-This clearly shows us that there's 3X ROI from baseline, a 63\% cost reduction, and increased projected revenue, significantly improving customer targeting efficiency.
+This clearly shows us that there's 3X ROI from baseline, a 63\% cost reduction, and increased projected revenue, significantly improving customer targeting efficiency displaying to us the benefits of segmentation and predictive CLV models.
 
 ### Conclusion
 
